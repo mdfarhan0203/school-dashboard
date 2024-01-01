@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/school_dashboard/static/css/main.c1faba45.css",
+    "main.js": "/school_dashboard/static/js/main.adf210c4.js",
+    "index.html": "/school_dashboard/index.html",
+    "main.c1faba45.css.map": "/school_dashboard/static/css/main.c1faba45.css.map",
+    "main.adf210c4.js.map": "/school_dashboard/static/js/main.adf210c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1faba45.css",
+    "static/js/main.adf210c4.js"
+  ]
+}
